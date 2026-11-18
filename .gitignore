@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ucu-verify/
+.ucu-daemon-test/
+tmp/
+*.log
