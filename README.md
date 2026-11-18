@@ -45,7 +45,3 @@ Twelve action types share one schema across browser and desktop. Full reference:
 ```bash
 python scripts/verify.py   # protocol round-trip + browser→notepad e2e + CLI smoke
 ```
-
-## License
-
-MIT
